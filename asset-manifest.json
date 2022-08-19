@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/AarushVats/News-hunger-react.git/static/css/main.073c9b0a.css",
-    "main.js": "/AarushVats/News-hunger-react.git/static/js/main.fe51637e.js",
-    "static/js/787.4c026eef.chunk.js": "/AarushVats/News-hunger-react.git/static/js/787.4c026eef.chunk.js",
-    "index.html": "/AarushVats/News-hunger-react.git/index.html",
-    "main.073c9b0a.css.map": "/AarushVats/News-hunger-react.git/static/css/main.073c9b0a.css.map",
-    "main.fe51637e.js.map": "/AarushVats/News-hunger-react.git/static/js/main.fe51637e.js.map",
-    "787.4c026eef.chunk.js.map": "/AarushVats/News-hunger-react.git/static/js/787.4c026eef.chunk.js.map"
+    "main.css": "/static/css/main.073c9b0a.css",
+    "main.js": "/static/js/main.fe51637e.js",
+    "static/js/787.4c026eef.chunk.js": "/static/js/787.4c026eef.chunk.js",
+    "index.html": "/index.html",
+    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
+    "main.fe51637e.js.map": "/static/js/main.fe51637e.js.map",
+    "787.4c026eef.chunk.js.map": "/static/js/787.4c026eef.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
